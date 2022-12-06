@@ -1,0 +1,60 @@
+.bgimg{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaoMlX4N5agvcUb6s0MNbNGGC0NjtWH6G5Hw&usqp=CAU");
+    background-size: cover;
+    height:120vh;
+}
+.logo{
+    width: 70px;
+    height:50px;  
+}
+.btn{
+    background-color:white;
+    padding:4px 5px;
+    border-radius: 5px;
+    
+
+}
+.btn:hover{
+    background-color:transparent;
+    color:white;
+}
+.head{
+    font-size: 60px;
+    font-style: italic;
+}
+.para{
+    color:grey;
+}
+.para1{
+    color:white;
+}
+.btn1{
+    background-color: red;
+    color:white;
+    padding:10px 30px;
+
+
+}
+.btn1:hover{
+    background-color: blue;
+}
+.head{
+    color:white;
+}
+.head1{
+    color:white;
+}
+.content{
+    top:0%;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0 20px;
+}
+.content .join{
+    color:antiquewhite;
+    text-decoration: none;
+    background-color: red;
+    padding: 8px 18px;
+    border-radius: 5px;
+}
